@@ -1,0 +1,33 @@
+a:link{
+ color: red;
+}
+a:hover {
+ color: yellow;
+}
+a:visited {
+ color: green;
+}
+h4 {
+  color:#090E7B;
+}
+#specialid {
+ color: #D86A03;
+}
+.specialp {
+  color: #D86A03;
+  background-color: #090E7B;
+}
+#divexample {
+  color: #ffffff;
+  background-color: #7b0909;
+}
+.spanstyle {
+  color: #ffffff;
+  background-color: #090E7B;
+}
+.specialf {
+  color: #7b0909;
+}
+.specialc {
+  color: #090E7B;
+}
