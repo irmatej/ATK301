@@ -1,0 +1,28 @@
+body {
+  background-color: #fbd335;
+  font-family: Impact;
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+  width: 600px;
+}
+#director {
+  color: purple;
+  font-size: 12px;
+  border-bottom: 5px solid purple;
+  letter-spacing: 5px;
+}
+.largertext {
+  font-size: 24px;
+}
+h1 {
+  text-align: center;
+  font-size: 120px;
+  line-height: 90%;
+  margin: 0;
+}
+#starring {
+  padding-top: 550px;
+}
+.centered {
+  text-align: center;
+}
