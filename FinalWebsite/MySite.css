@@ -1,0 +1,34 @@
+#mainid {
+  grid-column: span 12;
+}
+main {
+  grid-column: span 12;
+  text-align: center;
+  border-right: 45px solid #9F1D1D;
+  border-left: 45px solid #9F1D1D;
+}
+#sound {
+  grid-column: span 12;
+}
+.textshadowbox {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 36px;
+  color: #000000;
+  text-shadow: 4px 4px 4px #9F1D1D; /* x, y, blur, color */
+}
+.titleshadowbox {
+  font-weight: bold;
+  font-size: 40px;
+  color: #000000;
+  text-shadow: 2px 2px 2px #9F1D1D; /* x, y, blur, color */
+}
+.fab {
+  color: #9F1D1D;
+  text-decoration: none;
+  font-size: 40px;
+  border-bottom: 3px solid white;
+}
+.fab:hover {
+  color: #481212;
+}

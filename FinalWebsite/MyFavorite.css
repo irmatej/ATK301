@@ -1,0 +1,16 @@
+aside {
+  grid-column: span 12;
+  text-align: right;
+  font-size: 50px;
+  padding-right: 30px;
+}
+main {
+  grid-column: span 12;
+  border-left: 45px solid #9F1D1D;
+}
+.titleshadowbox {
+  font-weight: bold;
+  font-size: 40px;
+  color: #000000;
+  text-shadow: 2px 2px 2px #9F1D1D; /* x, y, blur, color */
+}

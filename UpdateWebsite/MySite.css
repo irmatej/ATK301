@@ -59,7 +59,7 @@ main {
   margin: 20px;
   font-weight: bold;
   font-size: 36px;
-  color: #ffffff;
+  color: #000000;
   text-shadow: 4px 4px 4px #9F1D1D; /* x, y, blur, color */
 }
 .titleshadowbox {
@@ -76,4 +76,13 @@ a {
 }
 a:hover {
   color: #531C1C;
+}
+footer {
+  grid-column: span 12;
+  border-top: 3px solid white;
+  display: block;
+  background-color: #9F1D1D;
+  color: white;
+   padding: 0 5px 0 5px;
+  font-size: 12px;
 }
